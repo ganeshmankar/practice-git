@@ -1,2 +1,1 @@
-def addtion(a,b):
-  return a+b
+print("Hello world")
